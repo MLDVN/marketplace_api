@@ -45,5 +45,8 @@ def update_user(user_id):
     status_code, message = update_user_flask(user_id, user_data)
     return Response(status=status_code, response=message)
 
+
+## end of methods
+
 if __name__ == '__main__':
     app.run()
