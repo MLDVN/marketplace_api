@@ -9,11 +9,6 @@
             "name": "Jane Doe",
             "email": "janey_doe@gmail.com",
             "register_date": "2022-04-14 20:00"
-        },
-        "xxx": {
-            "name": "Jacky Chan",
-            "email": "jacky_jack@gmail.com",
-            "register_date": "2022-04-20 20:00"
         }
     },
     "products": {
